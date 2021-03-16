@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "QGISID Virtual Meetup 2021"
 email: ""
 description: "Website of the 2021 QGISID Virtual Meetup"
-baseurl: ""
-url: https://qgis-id.github.io
+baseurl: "https://qgis-id.github.io/meetup"
+url: https://qgis-id.github.io/meetup
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-113363726-1" #Summit Tracking ID
 #googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
