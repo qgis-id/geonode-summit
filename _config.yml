@@ -10,27 +10,27 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "GeoNode Summit 2020"
+title: "QGISID Virtual Meetup 2021"
 email: ""
-description: "Website of the 2020 GeoNode Summit"
+description: "Website of the 2021 QGISID Virtual Meetup"
 baseurl: ""
-url: http://summit.geonode.org
+url: https://qgis-id.github.io
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-113363726-1" #Summit Tracking ID
-googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
-siteVerification: "N/A" #TODO!
+#googleAnalyticsTrackingId: "UA-113363726-1" #Summit Tracking ID
+#googleAnalyticsSiteUrl: "geonode.github.io" #TODO!
+#siteVerification: "N/A" #TODO!
 
 # Organizer Info
-organizerName: "Thünen Institute"
-organizerAlternateName: "Thünen Institute"
-organizerDescription: "The Thünen Insitute is a Federal Research Institute for Rural Areas, Forestry and Fisheries. Our research is targeted at developing concepts for a sustainable, ecologically viable, and competitive agriculture and food economy, forestry and wood economy, fisheries and aquaculture."
-organizerEmail: "summit2020@thuenen.de"
-organizerLogo: "/img/organizers/THUENEN_Office_RGB_hq.png"
+organizerName: "QGIS Indonesia"
+organizerAlternateName: "QGIS Indonesia User Group"
+organizerDescription: "QGIS Indonesia"
+organizerEmail: "qgisid@gmail.com"
+organizerLogo: "/img/seo/qgisid-small.png"
 organizerLink: "https://www.thuenen.de/en/"
 
 # Head
 metaKeywords: "event, summit, geonode, open source, programming, maps, developers, django, geoserver, postgis"
-twitterAccount: "@GeoNode"
+twitterAccount: "@qgisid"
 #socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png" # TODO remove
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -53,8 +53,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "ThuenenforumAerial_large.jpg"
-heroTitle: "GeoNode <typeout> Summit 2020"
-eventDate: "Everywhere | 07 - 09 December, 2020"
+heroTitle: "QGISID <typeout> Virtual Meetup 2021"
+eventDate: "Everywhere | March 20, 2021"
 typeoutTextValues: '"", "Virtual","Dev","Virtual", "Users","Virtual", "World"'
 typeoutFallback: ""
 heroMessage: ""
